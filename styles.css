@@ -22,7 +22,7 @@ h3 {
 }
 
 .intro-section {
-	background-color:rgb(225, 229, 232);
+	background-color:#ecf0f1;
 	padding-top:100px;
 	padding-bottom:100px;
 }
@@ -33,9 +33,8 @@ h3 {
 	margin:0 auto;
 }
 
-	.average_increase-section {
-  	background-color: rgb(247, 250, 252);
-	padding-bottom:100px;
+.average_increase-section {
+	margin-bottom:100px;
 	padding-top:100px;
 }
 
@@ -64,7 +63,9 @@ h3 {
 }
 
 .data-section {
-	margin-top:100px;
+	padding-top:100px;
+	background-color:rgb(253, 246, 239);
+;
 }
 
 .testimonials-section {
