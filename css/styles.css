@@ -71,6 +71,11 @@ h3 {
 ;
 }
 
+img {
+	max-width:420px;
+	padding-bottom:25px;
+}
+
 .testimonials-section {
 	clear:both;
 	display:table;
