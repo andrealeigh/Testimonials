@@ -99,6 +99,25 @@ table {
 	margin-bottom:25px;
 }
 
+.table_test_name {
+	color: #f07730;
+	font-size: 24px;
+  	padding-bottom: 15px;
+}
+
+.table_categories {
+	font-size:12px;
+	font-family: 'Playfair Display SC bold', serif;
+
+}
+
+td {
+	padding-right: 20px;
+  	padding-top: 15px;
+  	border-bottom: 1px solid #c7c8ca;
+}
+
+
 .sat-results {
 	float:left;
 }
