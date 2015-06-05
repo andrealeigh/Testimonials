@@ -103,13 +103,19 @@ table {
 	margin-bottom:25px;
 }
 
-.table_test_name {
+.table_date_range {
+	color:#34495e;
+
+}
+
+.table_test_type {
 	color:#f07730;
 	font-size: 24px;
   	padding-bottom: 15px;
 }
 
 .table_categories {
+	color:#34495e;
 	font-size:12px;
 }
 
