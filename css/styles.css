@@ -6,7 +6,7 @@ html {
 
 h1 {
 	font-size:50px;
-	padding-bottom:15px;
+	padding-bottom:25px;
     font-family: 'fundamental__brigade_scvhlaRg';
 }
 
@@ -65,7 +65,7 @@ h3 {
 .testimonials-section {
 	clear:both;
 	display:table;
-	margin:50px auto;
+	margin: 50px auto 100px auto;
 	max-width:900px;
 }
 
@@ -112,11 +112,9 @@ table {
 }
 
 
-
 .table_test_type {
 	color:#f07730;
 	font-size: 24px;
-  	padding-bottom: 15px;
 }
 
 .table_categories {
