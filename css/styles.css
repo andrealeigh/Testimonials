@@ -62,17 +62,6 @@ h3 {
 	margin:15px auto;
 }
 
-.data-section {
-	padding-top:100px;
-	background-color:rgb(253, 246, 239);
-;
-}
-
-img {
-	max-width:420px;
-	padding-bottom:25px;
-}
-
 .testimonials-section {
 	clear:both;
 	display:table;
@@ -92,6 +81,16 @@ img {
 .testimonial:nth-of-type(2) {
 	margin-left:100px;
 	width:43%;
+}
+
+.data-section {
+	padding-top:100px;
+	background-color:rgb(253, 246, 239);
+}
+
+img {
+	max-width:420px;
+	padding-bottom:25px;
 }
 
 .date_range {
