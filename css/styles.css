@@ -97,6 +97,13 @@ img {
 	width:43%;
 }
 
+.date_range {
+	color:#34495e;
+	font-size:20px;
+	margin-top:10px;
+
+}
+
 .results {
 	clear:both;
 	display:table;
@@ -108,10 +115,7 @@ table {
 	margin-bottom:25px;
 }
 
-.table_date_range {
-	color:#34495e;
 
-}
 
 .table_test_type {
 	color:#f07730;
