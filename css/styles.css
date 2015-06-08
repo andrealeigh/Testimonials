@@ -138,3 +138,8 @@ td {
   	padding-top: 15px;
   	border-bottom: 1px solid #c7c8ca;
 }
+
+.footer {
+	height:200px;
+	background-color:#34495e;
+}
